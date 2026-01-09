@@ -26,8 +26,8 @@ First, active docker container `python-env`
 docker exec -it python-env /bin/bash
 ```
 
-then run the script for active jupyter notebook environment
+then run the script for active jupyter environment
 
 ```
-bash scripts/active-jupyternb.sh
+bash scripts/active-jupyter.sh
 ```
